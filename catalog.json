@@ -15,30 +15,30 @@
       "DownloadUrl":  "https://archive.org/download/soul-play-installer-final/SoulPlay-Installer%5B2021-12-28%5D.exe",
       "InstallerArgs":"\/S",
       "SizeBytes":    249561088,
-      "IsNew":        false,
-      "IsUpdated":    true,
+      "IsNew":        true,
+      "IsUpdated":    false,
       "ReleaseNotes": "Final Release"
     },
 
     {
-      "Id":           "EndTime",
-      "Name":         "SoulPlay Endtime",
+      "Id":           "SoulPlay2",
+      "Name":         "EndTime",
       "Category":     "Games",
       "Description":  "Not related to the first SoulPlay, but to show the way everything will end. It is the final ending of the Layer 4.",
-      "Version":      "0.0.0",
+      "Version":      "1.0.0",
       "IconUrl":      "🎮",
-      "DownloadUrl":  "https://",
+      "DownloadUrl":  "https:",
       "InstallerArgs":"\/S",
       "SizeBytes":    78643200,
       "IsNew":        false,
-      "IsUpdated":    false,
-      "ReleaseNotes": "Under Devlopment"
+      "IsUpdated":    true,
+      "ReleaseNotes": "Under devlopment."
     },
 
     {
       "Id":           "Anima",
-      "Name":         "Anima Engine",
-      "Category":     "Games",
+      "Name":         "Anima",
+      "Category":     "Software",
       "Description":  "Anima is a software that belongs to a branch of The Layer 4 Universe. If you have no idea what it is, you still can play it for free. The modules included with Anima concern the lore and stories of the Layer 4 Universe.",
       "Version":      "1.2.0",
       "IconUrl":      "🎮",
@@ -46,8 +46,8 @@
       "InstallerArgs":"\/S",
       "SizeBytes":    10485760,
       "IsNew":        false,
-      "IsUpdated":    true,
-      "ReleaseNotes": "Multi-Module Engine"
+      "IsUpdated":    false,
+      "ReleaseNotes": "Multi-module Engine"
     },
 
     {
@@ -56,7 +56,7 @@
       "Category":     "Music",
       "Description":  "A collection of tracks. Downloads as a ZIP.",
       "Version":      "1.0",
-      "IconUrl":      "my-music-1.png",
+      "IconUrl":      "🎵",
       "DownloadUrl":  "https://YOUR_SITE/files/music-pack-vol1.zip",
       "InstallerArgs":"",
       "SizeBytes":    104857600,
